@@ -2,6 +2,18 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-    <color name="app_background">#B29EE7</color>
-    <color name="app_foreground">#D16767</color>
+    <color name="app_background">#96DCE7</color>
+    <color name="app_foreground">#836F03</color>
+
+    <color name="main_btn_background">#066B07</color>
+
+    <!-- region Calc -->
+    <color name="calc_layout_background">#202020</color>
+    <color name="calc_text_color">#FEFEFE</color>
+    <color name="calc_history_color">#A5A5A5</color>
+    <color name="calc_btn_digit">#3B3B3B</color>
+    <color name="calc_btn_operation">#2B2D30</color>
+    <color name="calc_btn_equal">#D8B47B</color>
+    <!-- endregion -->
+
 </resources>
